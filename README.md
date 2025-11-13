@@ -112,4 +112,13 @@ sudo docker compose build --no-cache
 
 # Start containers
 sudo docker compose up
+sudo docker compose up -d
+docker ps
+#You should see:
+
+task_frontend
+task_backend
+task_mongo
+
+
 
