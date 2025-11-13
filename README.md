@@ -2,6 +2,7 @@
 Backend for Task Manager app
 
 🧠 Project Title: Task Manager Backend
+
 📋 Project Description
 
 The Task Manager Backend is a RESTful API built with Node.js, Express, and MongoDB for managing tasks efficiently.
@@ -29,7 +30,7 @@ Task-manager-backend/
 ├── server.js
 ├── Dockerfile
 ├── package.json
-├── .env               # contains environment variables like Mongo URI
+├── .env               
 └── node_modules/
 
 🚀 Installation Steps (Without Docker)
