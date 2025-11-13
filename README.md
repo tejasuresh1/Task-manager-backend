@@ -23,6 +23,7 @@ Docker – For containerization
 dotenv – Environment variable management
 
 🛠️ Project Structure
+
 Task-manager-backend/
 │
 ├── server.js
@@ -32,8 +33,9 @@ Task-manager-backend/
 └── node_modules/
 
 🚀 Installation Steps (Without Docker)
+
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/Task-manager-backend.git
+git clone https://github.com/tejasuresh1/Task-manager-backend.git
 cd Task-manager-backend
 
 2️⃣ Install dependencies
