@@ -101,15 +101,15 @@ kamini Tejasureh
 
 Run Final Command for project
 
-# 5️⃣ Go to your project folder
+#  Go to your project folder
 cd /home/ec2-user/task-manager
 
-# 6️⃣ Stop any running containers
+#  Stop any running containers
 sudo docker compose down
 
-# 7️⃣ Build without cache
+#  Build without cache
 sudo docker compose build --no-cache
 
-# 8️⃣ Start containers
+# Start containers
 sudo docker compose up
 
